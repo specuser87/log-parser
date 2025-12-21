@@ -132,4 +132,3 @@ class APIhandler:
 
 
 def fetch_data()
-    
