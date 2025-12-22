@@ -1,7 +1,0 @@
-# Shortest Job First (SJF )an algorithm that will decide what process would run first
-#and based on how long the process would take meaning the burst time 
-
-processes = [1, 2, 3, 4]
-burst_time = [ 3, 7, 5, 6]
-
-# 
